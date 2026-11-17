@@ -1,0 +1,20 @@
+{
+  "16": "Configuration: weaknesses from insecure or missing security configuration.",
+  "20": "Improper Input Validation: input is not validated before use.",
+  "79": "Cross-site Scripting (XSS): untrusted data is rendered in a page without proper encoding.",
+  "89": "SQL Injection: untrusted input alters a SQL query.",
+  "200": "Exposure of Sensitive Information to an Unauthorized Actor.",
+  "209": "Error messages reveal sensitive information.",
+  "284": "Improper Access Control.",
+  "311": "Missing Encryption of Sensitive Data.",
+  "319": "Cleartext Transmission of Sensitive Information (no HTTPS).",
+  "352": "Cross-Site Request Forgery (CSRF).",
+  "525": "Sensitive data may be cached by the browser.",
+  "548": "Directory listing exposes file structure.",
+  "565": "Reliance on cookies without validation.",
+  "614": "Cookie missing the Secure attribute.",
+  "693": "Protection Mechanism Failure (missing security headers such as CSP).",
+  "1004": "Cookie missing the HttpOnly attribute.",
+  "1021": "Improper Restriction of Rendered UI Layers (clickjacking, missing X-Frame-Options).",
+  "1275": "Cookie missing a proper SameSite attribute."
+}

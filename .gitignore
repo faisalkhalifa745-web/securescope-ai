@@ -1,6 +1,9 @@
-.venv/
 .env
+.venv/
 __pycache__/
 *.pyc
-data/raw/
-*.log
+.pytest_cache/
+logs/
+reports/
+data/raw_alerts.json
+data/state.json
